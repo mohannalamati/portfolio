@@ -129,7 +129,7 @@ It has 2 keys, *logo* and *sections*.
         },
         {
             "title": "Resume",
-            "href": "https://drive.google.com/file/d/13kaPsdMNDsM4LV9g7m5-E5PTildp-yYf/view?usp=sharing",
+            "href": "https://drive.google.com/file/d/19yfbmEBN1uhzn6pQcR3Pc7hppX4eej7M/view?usp=drive_link",
             "type": "link"
         }
     ]
