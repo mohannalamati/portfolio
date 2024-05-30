@@ -1,19 +1,25 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Jun 2017 - May 2021",
+            "cardTitle": "B.Tech",
+            "cardSubtitle":"Bharath University, Chennai",
+            "cardDetailedText": "CGPA - 7.6",
             "icon" : {
                 "src": "images/education/lorem-ipsum.png"
             }
         },
         {
-            "title": "Apr 20XX",
+            "title": "Jun 2015 - May 2017",
+            "cardTitle": "Intermediate",
+            "cardSubtitle":"Vidya Vikas Junior College, Eluru",
+            "cardDetailedText": "Marks - 94.4%"
+        },
+        {
+            "title": "Apr 2015",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "cardSubtitle":"Svrk High School, Chagallu",
+            "cardDetailedText": "Marks - 90%"
         }
     ]
 }

@@ -47,7 +47,7 @@ function Skills(props) {
             <Container>
               {renderSkillsIntro(data.intro)}
               {data.skills?.map((rows) => (
-                <div key={rows.title}>
+                <div key={rows.title} style={{ marginBottom: '-20px', marginTop: '-20px' }}>
                   <br />
                   <h3>{rows.title}</h3>
                   {rows.items.map((item) => (
